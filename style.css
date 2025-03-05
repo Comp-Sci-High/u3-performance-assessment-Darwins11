@@ -4,3 +4,19 @@ h1{
 .card{
     text-align: center !important;
 }
+.bod{
+    background-color: red;
+}
+#divy{
+    background-color: red;
+}
+.kick{
+    display: block;
+    margin: auto;
+    width: 1000px;
+    height: 750px;
+}
+.container{
+    margin:auto;
+    display: block;
+}
